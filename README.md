@@ -66,6 +66,8 @@
       <option value="Mesa 2">Mesa 2</option>
       <option value="Mesa 3">Mesa 3</option>
       <option value="Mesa 4">Mesa 4</option>
+      <option value="Mesa 5">Mesa 5</option>
+      <option value="Mesa 6">Mesa 6</option>
     </select>
     <br><br>
     <label for="producto">Producto:</label>
@@ -78,6 +80,7 @@
       <option value="Vino Blanco">Vino Blanco</option>
       <option value="Whisky">Whisky</option>
       <option value="Ron">Ron</option>
+      <option value="Copa Tropical Frutos Rojos">Copa Tropical Frutos Rojos</option>
     </select>
     <br><br>
     <label for="cantidad">Cantidad:</label>
